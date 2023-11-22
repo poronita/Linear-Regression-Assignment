@@ -11,7 +11,7 @@ BoomBikes, hit by pandemic revenue woes, consults to predict post-lockdown bike 
 ## General Information
 The project revolves around addressing the business challenges faced by BoomBikes, a bike-sharing provider in the US. With the onset of the COVID-19 pandemic, BoomBikes experienced a decline in revenue. The company is keen on developing a strategic business plan to thrive in the post-lockdown period and understand the factors influencing the demand for shared bikes.
 
-Business Problem:
+<b> Business Problem:</b>
 The primary business problem is to model and predict the demand for shared bikes. BoomBikes aims to identify the significant variables affecting bike demand, comprehend the dynamics of demand, and prepare a business strategy accordingly. The objective is to enhance revenue by meeting customer expectations and distinguishing themselves from other service providers.
 
 Dataset:
