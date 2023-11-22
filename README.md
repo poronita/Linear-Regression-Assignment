@@ -47,3 +47,4 @@ The residuals plot from the regression model suggests a strong fit to the data. 
 
 ## Contact
 Created by [@poronita] - feel free to contact me!
+Note: if the PDF dosen't open please clone it your system, it must be visible locally. 
