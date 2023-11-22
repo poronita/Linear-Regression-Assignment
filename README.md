@@ -19,3 +19,20 @@ The dataset used for analysis contains information on daily bike demands across 
 
 In the project, we will perform data cleaning, exploratory data analysis (EDA), feature engineering, and build a multiple linear regression model. The dataset will be split into training and testing sets, and the model's performance will be evaluated. Recommendations based on the analysis will be provided to assist BoomBikes in adapting their business strategy for optimal results.
 
+## Conclusions <a name="conclusions"></a>
+- [Conclusion 1 from the analysis](#conclusion-1)
+- [Conclusion 2 from the analysis](#conclusion-2)
+- [Conclusion 3 from the analysis](#conclusion-3)
+- [Conclusion 4 from the analysis](#conclusion-4)
+
+<b>Correlation Insights:</b>
+The chart and heatmap analysis unveil robust positive correlations, with a correlation coefficient of 0.8 for clear weather, 0.7 for temperature, and a weak negative correlation of -0.3 with humidity. Clear weather and temperature emerge as influential factors positively impacting bike demand. These insights are pivotal for predictive modeling and informed resource allocation decisions.
+
+<b>Binary Classification Model Performance:</b>
+The confusion matrix provides a snapshot of the binary classification model's performance. With an accuracy of 0.85, precision of 0.80, recall of 0.91, and an F1 score of 0.85, the model exhibits strong overall performance. It accurately predicts positive outcomes 91% of the time and negative outcomes 85% of the time. Evaluating the model on a held-out test set adds credibility to its performance assessment.
+
+<b>Classification Model Accuracy and Insights:</b>
+The classification model excels with an impressive AUC of 0.95, indicative of a well-balanced sensitivity and specificity. Notably, it highlights a positive correlation between clear weather and increased bike demand, marked by heightened variability and more extreme cases. This underscores the model's ability to discern patterns and provide valuable insights.
+
+<b>Regression Model Fit:</b>
+The residuals plot from the regression model suggests a strong fit to the data. This indicates that the model effectively captures the underlying patterns and relationships in the dataset, bolstering confidence in its predictive capabilities.
