@@ -43,3 +43,6 @@ The residuals plot from the regression model suggests a strong fit to the data. 
 - This project was inspired by the need to understand the demand dynamics of bike-sharing systems.
 - The insights gained from the "Machine Learning 1" module in the Executive PG Programme in Machine Learning & AI - August 2023, available at [Machine Learning 1 Course](https://learn.upgrad.com/course/4701), also played a crucial role in shaping the project.
 - The foundational knowledge and methodologies learned from the course greatly contributed to the success of this project.
+
+## Contact
+Created by [@poronita] - feel free to contact me!
