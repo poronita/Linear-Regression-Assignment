@@ -39,3 +39,7 @@ The classification model excels with an impressive AUC of 0.95, indicative of a 
 <b>Regression Model Fit:</b>
 The residuals plot from the regression model suggests a strong fit to the data. This indicates that the model effectively captures the underlying patterns and relationships in the dataset, bolstering confidence in its predictive capabilities.
 
+## Acknowledgements
+- This project was inspired by the need to understand the demand dynamics of bike-sharing systems.
+- The insights gained from the "Machine Learning 1" module in the Executive PG Programme in Machine Learning & AI - August 2023, available at [Machine Learning 1 Course](https://learn.upgrad.com/course/4701), also played a crucial role in shaping the project.
+- The foundational knowledge and methodologies learned from the course greatly contributed to the success of this project.
