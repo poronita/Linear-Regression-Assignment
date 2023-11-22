@@ -19,6 +19,13 @@ The dataset used for analysis contains information on daily bike demands across 
 
 In the project, we will perform data cleaning, exploratory data analysis (EDA), feature engineering, and build a multiple linear regression model. The dataset will be split into training and testing sets, and the model's performance will be evaluated. Recommendations based on the analysis will be provided to assist BoomBikes in adapting their business strategy for optimal results.
 
+## Technologies Used
+- Pandas - version 1.0
+- NumPy - version 1.0
+- Matplotlib - version 2.0
+- Seaborn - version 3.0
+- Scikit-learn - version 0.24
+
 ## Conclusions <a name="conclusions"></a>
 <b>Correlation Insights:</b>
 The chart and heatmap analysis unveil robust positive correlations, with a correlation coefficient of 0.8 for clear weather, 0.7 for temperature, and a weak negative correlation of -0.3 with humidity. Clear weather and temperature emerge as influential factors positively impacting bike demand. These insights are pivotal for predictive modeling and informed resource allocation decisions.
@@ -31,3 +38,4 @@ The classification model excels with an impressive AUC of 0.95, indicative of a 
 
 <b>Regression Model Fit:</b>
 The residuals plot from the regression model suggests a strong fit to the data. This indicates that the model effectively captures the underlying patterns and relationships in the dataset, bolstering confidence in its predictive capabilities.
+
