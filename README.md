@@ -20,11 +20,6 @@ The dataset used for analysis contains information on daily bike demands across 
 In the project, we will perform data cleaning, exploratory data analysis (EDA), feature engineering, and build a multiple linear regression model. The dataset will be split into training and testing sets, and the model's performance will be evaluated. Recommendations based on the analysis will be provided to assist BoomBikes in adapting their business strategy for optimal results.
 
 ## Conclusions <a name="conclusions"></a>
-- [Conclusion 1 from the analysis](#conclusion-1)
-- [Conclusion 2 from the analysis](#conclusion-2)
-- [Conclusion 3 from the analysis](#conclusion-3)
-- [Conclusion 4 from the analysis](#conclusion-4)
-
 <b>Correlation Insights:</b>
 The chart and heatmap analysis unveil robust positive correlations, with a correlation coefficient of 0.8 for clear weather, 0.7 for temperature, and a weak negative correlation of -0.3 with humidity. Clear weather and temperature emerge as influential factors positively impacting bike demand. These insights are pivotal for predictive modeling and informed resource allocation decisions.
 
