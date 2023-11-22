@@ -2,12 +2,13 @@
 BoomBikes, hit by pandemic revenue woes, consults to predict post-lockdown bike demand in the US. Analyzing meteorological and lifestyle data, they aim to identify key factors driving demand for shared bikes, crafting a strategic plan for profitability.
 
 ## Table of Contents
-* [General Info](#general-information)
+* [General Information](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-## General Information <a name="general-information"></a>
+
+## General Information
 The project revolves around addressing the business challenges faced by BoomBikes, a bike-sharing provider in the US. With the onset of the COVID-19 pandemic, BoomBikes experienced a decline in revenue. The company is keen on developing a strategic business plan to thrive in the post-lockdown period and understand the factors influencing the demand for shared bikes.
 
 Business Problem:
